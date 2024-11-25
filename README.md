@@ -11,6 +11,10 @@ This is a simple web-based application built using **Streamlit** that interacts 
 - Utilizes OpenAI's GPT model for generating responses.
 - User-friendly design powered by Streamlit.
 
+## Live Demo
+
+You can try the live demo of this app on Hugging Face Spaces: [Basic Chat App Clone](https://huggingface.co/spaces/barul/Basic_Chat_App_Clone)
+
 ## Installation
 
 To run this project locally, follow these steps:
@@ -67,7 +71,3 @@ Ensure you have the following installed:
 - Support for multiple OpenAI models to allow switching between them.
 - Enhanced UI with additional features like chat history export.
 - Better error handling for API requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
